@@ -1,0 +1,13 @@
+/build
+/node_modules
+.idea
+/var/datadir/*
+/config/AmpleCoinFund.json
+/config/PremiumWallet.json
+/config/development/*.json
+/config/rinkeby/*.json
+/coverage
+coverage.json
+allFiredEvents
+
+.node-xmlhttprequest*
